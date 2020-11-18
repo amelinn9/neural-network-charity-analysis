@@ -22,7 +22,7 @@
   - Hidden layer 2 = 30 neurons, Activation = ReLU  
   - Output layer Activation = Sigmoid  
 
-2. I was not able to achieve the target model performance.
+2. I was not able to achieve the target model performance of 75%.
 
 3. 
 
